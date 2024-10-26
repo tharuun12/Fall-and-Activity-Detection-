@@ -1,7 +1,7 @@
 # Fall Detection System
 
 ## Dataset
-The dataset used for this project is available on Kaggle: [Human Activity Recognition with Mobile Sensing](https://www.kaggle.com/code/malekzadeh/human-activity-recognition-with-mobile-sensing).
+The dataset used for this project is available on Kaggle: [Human Activity Recognition with Mobile Sensing](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones).
 
 ## Overview
 The Fall Detection System is a mobile health technology designed for elderly care, focusing on detecting falls and recognizing activities. This application leverages smartphone sensors to provide real-time alerts to caregivers or emergency contacts, thereby improving safety and reducing response times for fall incidents.
