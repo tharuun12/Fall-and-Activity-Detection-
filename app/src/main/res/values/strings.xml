@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fall Detection</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sensor_data">Sensor Data</string>
+    <string name="predicted_activity">Predicted Activity</string>
+    <string name="button">Button</string>
+    <string name="activity_prediction">Activity Prediction</string>
+    <string name="you_are_under_fall">You are under fall</string>
+    <string name="no">No</string>
+    <string name="sign_up_button">sign_up_button</string>
+    <string name="password_strength">Password strength:</string>
+</resources>
