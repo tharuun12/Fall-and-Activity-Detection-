@@ -8,6 +8,9 @@ The **Fall Detection System** aims to improve safety and response times by monit
 ### 📊 Dataset
 The dataset used for training this application’s machine learning models is sourced from Kaggle: [Human Activity Recognition with Mobile Sensing](https://www.kaggle.com/code/malekzadeh/human-activity-recognition-with-mobile-sensing).
 
+## Demo Video
+https://github.com/user-attachments/assets/e34ee781-a045-441e-a859-d023a1e4393d
+
 ## 🌟 Key Features
 - **User Authentication**: Secure Sign-Up and Login to protect user data.
 - **Real-Time Sensor Data & Visualization**: Graphs displaying accelerometer and gyroscope data in real time, capturing x, y, and z axes.
